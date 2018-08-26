@@ -1,4 +1,4 @@
-libastar - A算法实现库
+libastar - 算法实现库
 ===============================================
 Copyright by calvinwilliams
 

@@ -1,4 +1,4 @@
-libastar - A\* algorithm implementation library
+libastar - A\*À„∑® µœ÷ø‚
 ===============================================
 Copyright by calvinwilliams
 

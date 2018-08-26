@@ -48,5 +48,3 @@ libastar - MySQL数据库中间件
 
 <!-- /TOC -->
 
-# 1. 概述
-

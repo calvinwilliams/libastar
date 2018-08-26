@@ -1,11 +1,4 @@
-libastar - MySQL数据库中间件
-==========================
-
-<!-- TOC -->
-
-- [1. 概述](#1-概述)
-    - [1.1. 数据分布式切分方式](#11-数据分布式切分方式)
-    - [1.2. mysqlda](#12-mysqlda)
-
-<!-- /TOC -->
+libastar - A\* algorithm implementation library
+===============================================
+Copyright by calvinwilliams
 

@@ -1,8 +1,15 @@
+#ifndef _H_LIBASTAR_
+#define _H_LIBASTAR_
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <errno.h>
 #include <math.h>
+
+#ifdef __cplusplus
+extern "C" {
+#endif
 
 struct AStarNode ;
 struct AStarPathFinding ;
@@ -25,4 +32,10 @@ unsigned int GetEndNodeY( struct AStarPathFinding *p_astar );
 struct AStarNode *TravelReachableNodes( struct AStarPathFinding *p_astar , struct AStarNode *p_travel_node );
 unsigned int GetReachableNodeX( struct AStarNode *p_travel_node );
 unsigned int GetReachableNodeY( struct AStarNode *p_travel_node );
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif
 
